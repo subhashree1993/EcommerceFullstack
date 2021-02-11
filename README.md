@@ -1,2 +1,3 @@
 # EcommerceFullstack
-- This project is created using Django and mysql
+- This project is created using Django and Mysql
+- This is only for educational purpose
